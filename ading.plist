@@ -18,13 +18,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>yuanda.ading</string>
+<string>com.yuanda.ading</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>阿丁解盘</string>
+<string>ading</string>
 </dict>
 </dict>
 </array>
