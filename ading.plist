@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yuanda.ading.ios8</string>
+				<string>com.yuanda.ading</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
